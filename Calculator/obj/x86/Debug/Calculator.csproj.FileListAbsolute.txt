@@ -1,0 +1,8 @@
+E:\GitHub\LTNC\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\GitHub\LTNC\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\GitHub\LTNC\Calculator\Calculator\obj\x86\Debug\Calculator.Properties.Resources.resources
+E:\GitHub\LTNC\Calculator\Calculator\obj\x86\Debug\Calculator.csproj.GenerateResource.Cache
+E:\GitHub\LTNC\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+E:\GitHub\LTNC\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
+E:\GitHub\LTNC\Calculator\Calculator\obj\x86\Debug\Calculator.frmMain.resources
+E:\GitHub\LTNC\Calculator\Calculator\obj\x86\Debug\Calculator.csprojResolveAssemblyReference.cache
